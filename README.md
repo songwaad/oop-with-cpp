@@ -1,4 +1,4 @@
-# oop-with-cpp
+# OOP With C++
 This repository contains a collection of C++ homework assignments focused on Object-Oriented Programming (OOP) concepts. Each file demonstrates specific topics in C++ programming.
 
 ## List of Files
