@@ -28,8 +28,3 @@ This repository contains a collection of C++ homework assignments focused on Obj
     - Utilizes function and class templates.
 13. **`hw12_exception_handling.cpp`**
     - Explores exception handling with custom exceptions.
-
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/songwaad/oop-with-cpp.git
